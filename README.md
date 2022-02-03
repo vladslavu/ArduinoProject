@@ -1,4 +1,4 @@
-# ArduinoProject (DMP)
+# ArduinoProject (DMP - Design with Microprocessors)
 Current state of the project:
   - I have created a distance sensor using an ultrasonic sensor and a LED module (having 6 leds).
   - In order to include interrups, I have chosen the external ones. 
